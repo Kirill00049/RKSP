@@ -1,0 +1,45 @@
+.profile_container {
+    height: 1000px;
+    background: #e8a5a5;
+    color: #092c78;
+}
+
+.name {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 60px;
+    color: rgba(60, 53, 8, 0.55);
+    font-family: Cambria;
+}
+
+.home {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    color: #fd0000;
+    font-family: "Blackadder ITC"
+}
+
+.parents {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 30px;
+    color: #3d07bf;
+    margin-bottom: 10px;
+}
+
+.photo {
+    margin-top: 20px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+}
+
+img {
+    display: block;
+    width: 200px;
+}

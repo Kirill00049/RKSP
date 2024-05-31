@@ -1,0 +1,29 @@
+* {
+    text-decoration: none;
+    color: inherit;
+}
+
+.footer{
+    background-color: #ff0000;
+    color: #092c78;
+    font-weight: bold;
+}
+
+.flexPutin{
+    display: flex;
+    flex-direction: column;
+    height: 950px;
+}
+
+.putin{
+    display: block;
+    background-image: url("https://cdn2.pravda.ru/politonline/preview/article/0/8/5/22896085_original.jpeg");
+    background-size: contain;
+    height: 550px;
+}
+
+.cat{
+    background-image: url("https://i.pinimg.com/736x/2d/60/66/2d60666b48c4d4a151cf47ceb8591755.jpg");
+    background-size: contain;
+    height: 400px;
+}
